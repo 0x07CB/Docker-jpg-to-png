@@ -34,4 +34,4 @@ chmod +x uninstall_jpg2png.sh
 
 ---
 
-Ce setup est hermétique, réversible, sans déchet. Si tu veux une version .deb ou .pkg, je peux enchaîner.
+Ce setup est hermétique, réversible, sans déchet.
